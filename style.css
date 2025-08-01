@@ -231,3 +231,42 @@ body {
     height: 50px;
     object-fit: cover;
 }
+/* Let’s Get In Touch Section */
+.secondary-bg {
+    display: flex;
+}
+
+footer {
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+
+.footer-column {
+    width: 50%;
+}
+
+footer input[type="email"],
+footer input[type="text"],
+footer textarea {
+
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+
+
+}
+
+.text {
+    text-align: center;
+}
+
+.section-title {
+    font-size: 60px;
+    font-weight: bold;
+}
