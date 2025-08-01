@@ -67,3 +67,20 @@ body {
     font-weight: bold;
     padding: 12px 30px;
 }
+/* Banner section */
+.hero-section {
+
+    color: #333;
+    text-align: center;
+    padding: 100px 20px;
+
+    background-size: cover;
+    background-position: center;
+}
+.hero-section h1 {
+    font-size: 48px;
+    margin-bottom: 30px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
